@@ -1,0 +1,6 @@
+*.ts linguist-vendored
+*.js linguist-vendored
+*.scss linguist-vendored
+*.html linguist-vendored
+*.less linguist-vendored
+*.php linguist-language=php
